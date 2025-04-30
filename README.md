@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AntonFetzer
 - 👀 I’m interested in particle physics and space flight
-- 🌱 I’m currently learning Python, C++, Geant4 and CERN-Root
-- 💞️ I’m looking to collaborate on radiation sheilding for spacecraft
+- 🌱 I’m currently working with Geant4/GRAS and Python.
+- 💞️ I’m looking to collaborate on radiation shielding for spacecraft.
 - 📫 How to reach me Anton.Fetzer@aalto.fi
 
 <!---
